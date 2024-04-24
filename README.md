@@ -1,3 +1,3 @@
 ### Fala, mano 👋
 
-![](https://komarev.com/ghpvc/?username=MuriloBuson&label=PROFILE%20VIEWS)
+![](https://komarev.com/ghpvc/?username=MuriloBuson&label=PROFILE%20)
