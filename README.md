@@ -1,6 +1,6 @@
 # Fala, mano 👋
 
-## Sou técnico, tecnólogo, bacharel, especialista e curioso. 
+## Técnico, tecnólogo, bacharel, especialista e curioso. 
 
 ### Conecte-se comigo:
 <p align="left">
@@ -16,9 +16,6 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
   
-### Frameworks
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-
 ### Plataformas
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   
@@ -27,6 +24,7 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <a href="http://elipse.com.br/" target="_blank" rel="noreferrer"> <img src="images/elipse.png" alt="docker" width="40" height="40"/>
+  <a href="https://www.siemens.com/br/pt/produtos/software/software-para-industria/automacao/tia-portal.html" target="_blank" rel="noreferrer"> <img src="images/tiaportal.png" alt="docker" width="40" height="40"/>
   </a> 
 
 ### Microcontroladores
